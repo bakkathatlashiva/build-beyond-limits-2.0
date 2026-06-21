@@ -4,9 +4,9 @@
 
 ## Attendee/Team Details
 
-**Name:** Bakkathatla Shiva
-Rizwana
-Amruth
+**Name:** Bakkathatla Shiva,
+Rizwana,
+Amruth,
 Varshith
 
 **GitHub Username:** bakkathatlashiva
